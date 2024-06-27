@@ -1,0 +1,2 @@
+{"Amount":2000,"Category":"Salary"}
+{"Amount":10000,"Category":"GIFt"}
